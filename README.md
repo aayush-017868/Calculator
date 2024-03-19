@@ -26,9 +26,7 @@ To get a local copy up and running, follow these steps:
 
 ## 📫 How to Reach Me : aayushpatle01@gmail.com
 
-## ⚡ Fun Fact
-
-I love Mathematics😒
+## ⚡ Fun Fact : I love Mathematics😒
 
 Thank you for visiting my calculator project repository. Enjoy exploring my work!
 
